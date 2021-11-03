@@ -2,7 +2,7 @@
   "name": "ecothrive",
   "version": "1.0.0",
   "description": "ecothrive chrome extension",
-  "main": "index.js",
+  "main": "popup.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack-dev-server",
